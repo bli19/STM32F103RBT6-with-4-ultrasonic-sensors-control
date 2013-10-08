@@ -11,6 +11,6 @@ wasting peripherals.
 
 Kind of need to improve the code for the need for 2 push buttons.
 
-This is originally the shopping cart project i am doing, the breaking system is developed by other two mechanical students which
+This is originally the shopping cart project i am doing,now we do not need it anymore since the teacher think it is not nec
 
-THEY STILL DOING CALCULATION ADN HAVE NOT DONE DEVELOPMENT OF THAT.
+cesary.
