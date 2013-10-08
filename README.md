@@ -11,6 +11,6 @@ wasting peripherals.
 
 Kind of need to improve the code for the need for 2 push buttons.
 
-This is originally the shopping cart project i am doing,now we do not need it anymore since the teacher think it is not nec
+This is originally the shopping cart project our team were doing for ultrasonic sensors, now we do not need iultrasonic anymore since the teacher think it is not nec
 
 cesary.
